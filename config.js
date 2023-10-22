@@ -38,7 +38,7 @@ global.bgp2 = 'https://chat.whatsapp.com/I7bvd8XCAOUHjgkHteqFC7'
 global.bgp3 = 'https://chat.whatsapp.com/F0JTTyZ3hsoL7OlU8TEpuH' //--GP NSFW
 
 global.wait = '⌛ _Cargando..._\n*▬▬▬▭*'
-global.rwait = '⌛'
+global.rwait = '🙌'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
